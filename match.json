@@ -1,0 +1,20 @@
+{
+    "people": [
+        {"name": "Mary", "color": "green", "min": 1, "max": 5},
+        {"name": "Fred", "color": "blue", "min": 6, "max": 8},
+        {"name": "Sam", "color": "red", "min": 4, "max": 6}
+    ],
+    "items": [
+        {"color": "green", "size": 5},
+        {"color": "green", "size": 4},
+        {"color": "green", "size": 8},
+        {"color": "brown", "size": 3},
+        {"color": "red", "size": 4},
+        {"color": "red", "size": 6},
+        {"color": "red", "size": 9},
+        {"color": "red", "size": 5},
+        {"color": "blue", "size": 7},
+        {"color": "blue", "size": 4},
+        {"color": "blue", "size": 1}
+    ]
+}
